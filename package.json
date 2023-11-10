@@ -1,5 +1,5 @@
 {
-  "name": "algo_stroy_summarization",
+  "name": "algo_story_summarization",
   "version": "1.0.0",
   "description": "Algorithmic Abstractive Story Summarization",
   "main": "index.js",
